@@ -1,11 +1,11 @@
 # Creadora de contenido V1
 ![creadora de contenido v1](https://github.com/user-attachments/assets/60bb930b-e055-4e86-b8a3-9765375a072c)
 
-Este es un flujo de make (blueprint) que permite crear contenido a partir de una idea o concepto, la entrené para que se pueda usar para crear contenido de skateboarding
+Este es un flujo de make (blueprint) que permite crear contenido a partir de una idea o concepto, la entrené para que se pueda usar en creación de contenido de skateboarding, 
 pero puedes adaptarla para tus necesidades.
 
 
-En caso que no sepas que es make es una herramienta que permite conectar aplicaciones en flujos, te invito a ver la página si deseas más detalles
+En caso que no sepas qué es make, es una herramienta que permite conectar aplicaciones en flujos, te invito a ver la página si deseas más detalles
 https://www.make.com o si quieres ayudarme, puedes entrar por mi enlace de afiliados https://www.make.com/en/register?pc=sasvd
 # Objetivo
 El objetivo es crear un creador de contenidos para un blog en shopify
