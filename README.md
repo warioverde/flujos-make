@@ -12,7 +12,7 @@ El objetivo es crear un creador de contenidos para un blog en shopify
 
 # Prerrequisitos
 Los prerequisitos son:
-- tener una seción de blog creada en una tienda de shopify![shopify](https://github.com/user-attachments/assets/54fc8a2e-e49e-4509-9a3c-cbf62408fb21)
+- tener una sección de blog creada en una tienda de shopify![shopify](https://github.com/user-attachments/assets/54fc8a2e-e49e-4509-9a3c-cbf62408fb21)
 
 - crear un archivo de google sheets con las siguientes cabeceras de columna: | Tema | Status | Fecha y hora | Link |![google sheets](https://github.com/user-attachments/assets/2ec55627-3f1b-4584-bf47-5343fe53874e)
 
@@ -22,7 +22,7 @@ Los prerequisitos son:
 
 # Configuración
 Para configurarlo se requiere:
-- insertar las instrucciones (instrucciones_assitant.txt) que dejare en el repositorio dentro de System instructions en la configuración del assistant de openia
+- insertar las instrucciones (instrucciones_assitant.txt) que dejaré en el repositorio dentro de System instructions en la configuración del assistant de openia
 ![assistant_SI](https://github.com/user-attachments/assets/31c97f0f-35ac-49e1-8ebf-a1f3f0fbc7cf)
 
 - cargar el blueprint en un escenario en make
@@ -33,9 +33,8 @@ Para configurarlo se requiere:
 ![conexiones](https://github.com/user-attachments/assets/1b06926d-4ae3-446c-bafa-c23e385f5d03)
 
 
-
 # Uso
-una vez configurado todo, el flujo irá a buscar las nuevas filas que se agreguen a la hoja de google sheets de la primera columna (Tema) a las 9PM o haciendo una ejecución manual
+Una vez configurado todo, el flujo irá a buscar las nuevas filas que se agreguen a la hoja de google sheets de la primera columna (Tema) a las 9PM o haciendo una ejecución manual
 ![gif_uso](https://github.com/user-attachments/assets/23a52d6a-5406-470a-a7c7-c6cbc539e4db)
 
 
